@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "avlTree", "avlTree\avlTree.vcxproj", "{A7B045BB-AFFE-4C04-BC8B-699F5B7E9892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B045BB-AFFE-4C04-BC8B-699F5B7E9892}.Debug|x64.ActiveCfg = Debug|x64
+		{A7B045BB-AFFE-4C04-BC8B-699F5B7E9892}.Debug|x64.Build.0 = Debug|x64
+		{A7B045BB-AFFE-4C04-BC8B-699F5B7E9892}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7B045BB-AFFE-4C04-BC8B-699F5B7E9892}.Debug|x86.Build.0 = Debug|Win32
+		{A7B045BB-AFFE-4C04-BC8B-699F5B7E9892}.Release|x64.ActiveCfg = Release|x64
+		{A7B045BB-AFFE-4C04-BC8B-699F5B7E9892}.Release|x64.Build.0 = Release|x64
+		{A7B045BB-AFFE-4C04-BC8B-699F5B7E9892}.Release|x86.ActiveCfg = Release|Win32
+		{A7B045BB-AFFE-4C04-BC8B-699F5B7E9892}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE271E3E-E025-4B81-9A23-8348D9E3AC8E}
+	EndGlobalSection
+EndGlobal

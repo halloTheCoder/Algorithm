@@ -1,0 +1,4 @@
+﻿  Tree.cpp
+c:\users\akash\desktop\coding\c++\geeksforgeeks\printverticalbinarytree(less o(n))\printverticalbinarytree(less o(n))\tree.cpp(17): warning C4018: '<': signed/unsigned mismatch
+  printVerticalBinaryTree(less O(n)).vcxproj -> C:\Users\Akash\Desktop\coding\c++\geeksforgeeks\printVerticalBinaryTree(less O(n))\Debug\printVerticalBinaryTree(less O(n)).exe
+  printVerticalBinaryTree(less O(n)).vcxproj -> C:\Users\Akash\Desktop\coding\c++\geeksforgeeks\printVerticalBinaryTree(less O(n))\Debug\printVerticalBinaryTree(less O(n)).pdb (Partial PDB)

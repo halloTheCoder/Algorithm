@@ -1,0 +1,4 @@
+﻿  checkSkewedTree.cpp
+c:\users\akash\desktop\coding\data structure\tree\checkskewedtree\checkskewedtree\checkskewedtree.cpp(32): warning C4715: 'checkSkewedTree': not all control paths return a value
+  checkSkewedTree.vcxproj -> C:\Users\Akash\Desktop\coding\data structure\tree\checkSkewedTree\Debug\checkSkewedTree.exe
+  checkSkewedTree.vcxproj -> C:\Users\Akash\Desktop\coding\data structure\tree\checkSkewedTree\Debug\checkSkewedTree.pdb (Partial PDB)

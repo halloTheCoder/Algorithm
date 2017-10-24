@@ -1,0 +1,5 @@
+﻿  quickSort.cpp
+c:\users\akash\desktop\coding\c++\vs\quicksort\quicksort\quicksort.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\akash\desktop\coding\c++\vs\quicksort\quicksort\quicksort.cpp(61): warning C4715: 'find': not all control paths return a value
+  quickSort.vcxproj -> C:\Users\Akash\Desktop\coding\c++\vs\quickSort\Debug\quickSort.exe
+  quickSort.vcxproj -> C:\Users\Akash\Desktop\coding\c++\vs\quickSort\Debug\quickSort.pdb (Partial PDB)

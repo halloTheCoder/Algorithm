@@ -1,0 +1,5 @@
+﻿  findkSmallElement.cpp
+c:\users\akash\desktop\coding\c++\vs\findksmallelement\findksmallelement\findksmallelement.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\akash\desktop\coding\c++\vs\findksmallelement\findksmallelement\findksmallelement.cpp(62): warning C4715: 'select': not all control paths return a value
+  findkSmallElement.vcxproj -> C:\Users\Akash\Desktop\coding\c++\vs\findkSmallElement\Debug\findkSmallElement.exe
+  findkSmallElement.vcxproj -> C:\Users\Akash\Desktop\coding\c++\vs\findkSmallElement\Debug\findkSmallElement.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  shubhamAndBinaryString.cpp
+c:\users\akash\desktop\coding\c++\hackerearth\shubhamandbinarystring\shubhamandbinarystring\shubhamandbinarystring.cpp(11): error C4700: uninitialized local variable 't' used
+c:\users\akash\desktop\coding\c++\hackerearth\shubhamandbinarystring\shubhamandbinarystring\shubhamandbinarystring.cpp(13): error C4700: uninitialized local variable 'n' used

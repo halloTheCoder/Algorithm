@@ -1,0 +1,5 @@
+﻿  Board.cpp
+c:\users\akash\desktop\coding\game dev\tictactoe\tictactoe\board.cpp(126): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\akash\desktop\coding\game dev\tictactoe\tictactoe\board.cpp(198): warning C4715: 'Board::minMaxAlgo': not all control paths return a value
+  ticTacToe.vcxproj -> C:\Users\Akash\Desktop\coding\game dev\ticTacToe\Debug\ticTacToe.exe
+  ticTacToe.vcxproj -> C:\Users\Akash\Desktop\coding\game dev\ticTacToe\Debug\ticTacToe.pdb (Partial PDB)
